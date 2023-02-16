@@ -1,7 +1,7 @@
 <template>
   <div>
     <h2>Home</h2>
-
+    <h1>ADDING CHANGE HERE</h1>
     <!-- main content -->
     <h2>470 King Street West</h2>
     <p>Hamilton, Ontario</p>
